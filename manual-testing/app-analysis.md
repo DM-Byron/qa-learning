@@ -6,10 +6,10 @@
 Trello
 
 **Website:**
-www.trello.com
+https://trello.com
 
 **Date Tested:**
-15/7/26
+2026-07-21
 
 **Version (if known):**
 
@@ -17,7 +17,7 @@ www.trello.com
 
 # Purpose
 
-This application is a web based project management and collaboration tool that helps users organize work using boards, lists, and cards. It is used for project management, personal task tracking, software development, and team collaboration.
+Trello is a web-based project management and collaboration platform that allows users to organize tasks using boards, lists, and cards. It supports personal productivity, software development workflows, and team collaboration.
 
 ---
 
@@ -28,7 +28,7 @@ This application is a web based project management and collaboration tool that h
 * Small businesses
 * Project managers
 * Software development teams
-* Marketing teams
+* Remote teams collaborating on projects
 
 ---
 
@@ -65,6 +65,9 @@ Navigation
 * Search returning incomplete results
 * UI alignment issues
 * Icon display problems
+* Performance issues with large boards
+* Notifications not being delivered
+* Duplicate cards
 
 ---
 
@@ -83,6 +86,8 @@ Verify:
 
 - Is UI responsive and intuitive?
 - Error messages clear?
+- Are buttons and menus easy to understand?
+- Is navigation consistent?
 
 ## Performance Testing
 
