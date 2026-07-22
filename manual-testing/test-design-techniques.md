@@ -31,3 +31,25 @@ Boundary values:
 - 99
 - 100
 - 101
+
+## Equivalence Partitioning (EP)
+
+### Definition
+
+Equivalence Partitioning is a test design technique that divides inputs into groups that are expected to behave the same and tests one representative from each group.
+
+### Example 1
+
+Requirement:
+Password must be between 8 and 32 characters.
+
+Partitions: 
+- Less that 8 characters
+- Between 8 and 32 characters
+- More than 32 characters
+
+Representative Values:
+- 7
+- 20
+- 33
+

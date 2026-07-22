@@ -11,7 +11,7 @@ User has Trello Account.
 On the Trello Login page.
 Internet connection available.
 
-## Steps:
+### Steps:
 1. Enter valid email address.
 2. Enter correct password.
 3. Click Log in.
@@ -34,7 +34,7 @@ User has Trello Account.
 On the Trello Login page.
 Internet connection available.
 
-## Steps:
+### Steps:
 1. Enter valid email address.
 2. Enter incorrect password.
 3. Click Log in.
@@ -56,7 +56,7 @@ Verify user cannot login when both fields are empty.
 On the Trello Login page.
 Internet connection available.
 
-## Steps:
+### Steps:
 1. Leave Email address field empty.
 2. Leave password field empty.
 3. Click Log in.
@@ -78,7 +78,7 @@ Verify pressing enter submits the login form.
 On the Trello Login page.
 Internet connection available.
 
-## Steps:
+### Steps:
 1. Enter valid/invalid email address.
 2. Enter correct/incorrect password.
 3. Click Log in.
@@ -101,7 +101,7 @@ User has Trello Account.
 On the Trello Login page.
 Internet connection available.
 
-## Steps:
+### Steps:
 1. Click forgot password.
 2. Enter valid email address.
 3. Click reset password.
